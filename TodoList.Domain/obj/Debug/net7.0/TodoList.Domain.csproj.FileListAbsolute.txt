@@ -1,0 +1,11 @@
+C:\Users\ariel\source\repos\Tiba\TodoList\TodoList.Domain\bin\Debug\net7.0\TodoList.Domain.deps.json
+C:\Users\ariel\source\repos\Tiba\TodoList\TodoList.Domain\bin\Debug\net7.0\TodoList.Domain.dll
+C:\Users\ariel\source\repos\Tiba\TodoList\TodoList.Domain\bin\Debug\net7.0\TodoList.Domain.pdb
+C:\Users\ariel\source\repos\Tiba\TodoList\TodoList.Domain\obj\Debug\net7.0\TodoList.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ariel\source\repos\Tiba\TodoList\TodoList.Domain\obj\Debug\net7.0\TodoList.Domain.AssemblyInfoInputs.cache
+C:\Users\ariel\source\repos\Tiba\TodoList\TodoList.Domain\obj\Debug\net7.0\TodoList.Domain.AssemblyInfo.cs
+C:\Users\ariel\source\repos\Tiba\TodoList\TodoList.Domain\obj\Debug\net7.0\TodoList.Domain.csproj.CoreCompileInputs.cache
+C:\Users\ariel\source\repos\Tiba\TodoList\TodoList.Domain\obj\Debug\net7.0\TodoList.Domain.dll
+C:\Users\ariel\source\repos\Tiba\TodoList\TodoList.Domain\obj\Debug\net7.0\refint\TodoList.Domain.dll
+C:\Users\ariel\source\repos\Tiba\TodoList\TodoList.Domain\obj\Debug\net7.0\TodoList.Domain.pdb
+C:\Users\ariel\source\repos\Tiba\TodoList\TodoList.Domain\obj\Debug\net7.0\ref\TodoList.Domain.dll

@@ -1,0 +1,15 @@
+C:\Users\ariel\source\repos\Tiba\TodoList\TodoList.Application\bin\Debug\net7.0\TodoList.Application.deps.json
+C:\Users\ariel\source\repos\Tiba\TodoList\TodoList.Application\bin\Debug\net7.0\TodoList.Application.dll
+C:\Users\ariel\source\repos\Tiba\TodoList\TodoList.Application\bin\Debug\net7.0\TodoList.Application.pdb
+C:\Users\ariel\source\repos\Tiba\TodoList\TodoList.Application\obj\Debug\net7.0\TodoList.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ariel\source\repos\Tiba\TodoList\TodoList.Application\obj\Debug\net7.0\TodoList.Application.AssemblyInfoInputs.cache
+C:\Users\ariel\source\repos\Tiba\TodoList\TodoList.Application\obj\Debug\net7.0\TodoList.Application.AssemblyInfo.cs
+C:\Users\ariel\source\repos\Tiba\TodoList\TodoList.Application\obj\Debug\net7.0\TodoList.Application.csproj.CoreCompileInputs.cache
+C:\Users\ariel\source\repos\Tiba\TodoList\TodoList.Application\obj\Debug\net7.0\TodoList.Application.dll
+C:\Users\ariel\source\repos\Tiba\TodoList\TodoList.Application\obj\Debug\net7.0\refint\TodoList.Application.dll
+C:\Users\ariel\source\repos\Tiba\TodoList\TodoList.Application\obj\Debug\net7.0\TodoList.Application.pdb
+C:\Users\ariel\source\repos\Tiba\TodoList\TodoList.Application\obj\Debug\net7.0\ref\TodoList.Application.dll
+C:\Users\ariel\source\repos\Tiba\TodoList\TodoList.Application\bin\Debug\net7.0\TodoList.Domain.dll
+C:\Users\ariel\source\repos\Tiba\TodoList\TodoList.Application\bin\Debug\net7.0\TodoList.Domain.pdb
+C:\Users\ariel\source\repos\Tiba\TodoList\TodoList.Application\obj\Debug\net7.0\TodoList.Application.csproj.AssemblyReference.cache
+C:\Users\ariel\source\repos\Tiba\TodoList\TodoList.Application\obj\Debug\net7.0\TodoList.Application.csproj.CopyComplete

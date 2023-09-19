@@ -1,0 +1,10 @@
+CREATE SCHEMA TodoListDB AUTHORIZATION dbo
+GO
+
+CREATE TABLE TodoItems (
+    Id INT PRIMARY KEY,
+    Title NVARCHAR(MAX) NOT NULL,
+    Description NVARCHAR(MAX) NOT NULL,
+    CreatedDate DATETIME2(7) NOT NULL,
+    IsIncomplete BIT NOT NULL
+);
